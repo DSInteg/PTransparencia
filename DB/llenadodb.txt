@@ -1,0 +1,12 @@
+su1.- Cargar Tabla Area
+2.- Cargar Tabla de Empleados
+3.- Cargar Tabla Usuario
+4.- Cargar Tabla Articulo
+5.- Cargar Tabla ArticuloFraccion
+6.- Cargar Tabla Documento
+7.- Cargar Tabla SubeDocumento
+8.- Cargar Tabla ApruebaDocumento
+9.- Cargar Tabla PublicaDocumento
+10.- Cargar Tabla EstatusDocumento
+11.- Cargar Tabla DocumentosPublicos
+12.- Cargar Tabla vistaHTML
